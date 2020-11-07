@@ -1,2 +1,4 @@
 Started to practice Git.
 1 year later.
+-git add
+-git commit
